@@ -1,0 +1,49 @@
+.body {
+    background-color: #C6F0EE;
+}
+
+.title-block {
+    color: white;
+
+}
+
+.plan-block {
+    background-color: rgb(143, 96, 102);
+    border-radius: 20px;
+    box-shadow: 5px 10px 3px gray;
+    margin: 3%;
+    transition: 0.5s;
+}
+
+.plan-block:hover {
+    box-shadow: 10px 20px 30px rgb(76, 33, 249);
+    transform: scale(1.1);
+}
+
+.text-sm {
+    font-size: 0.8rem;
+}
+
+.dash {
+
+    width: 8rem;
+
+}
+
+.check {
+    color: rgb(0, 247, 0);
+}
+
+.cross {
+    color: red;
+}
+
+.btn {
+    width: 10rem;
+
+}
+
+.features {
+    padding-left: 5vh;
+    text-align: left;
+}
