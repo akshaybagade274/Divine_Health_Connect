@@ -1,0 +1,20 @@
+.footer {
+    /* position: absolute;
+    bottom: auto; */
+    /* width: 120vw; */
+    /* height: 50px; */
+    /* text-align: center; */
+    /* color: white; */
+    /* background-color: white; */
+}
+
+.boxfooter {
+    background-color: #1b8040;
+    color: white;
+    border-radius: 0px;
+    width: 100vw;
+
+    padding: 20px;
+    font-size: large;
+
+}
